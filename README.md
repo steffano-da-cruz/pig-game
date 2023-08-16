@@ -1,5 +1,5 @@
 # Pig Game
-![Pig Game](/assets/images/readme-guess-my-number.png)
+![Pig Game](/assets/images/readme-pig-game.png)
 
 ## 💻 About the project
 Both players compete to achieve a score of 100 points. The first one reaching this score wins.
