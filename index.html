@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Pig Game</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <main>
+      <section class="left player--0 player--active">
+        <div class="player-container">
+          <h2 class="player">Player 1</h2>
+          <p class="score score--0">42</p>
+        </div>
+        <div class="current-container">
+          <p class="current">Current</p>
+          <p class="current-score current--0">0</p>
+        </div>
+      </section>
+      <section class="right player--1">
+        <div class="player-container">
+          <h2 class="player">Player 2</h2>
+          <p class="score score--1">57</p>
+        </div>
+        <div class="current-container">
+          <p class="current">Current</p>
+          <p class="current-score current--1">0</p>
+        </div>
+      </section>
+      <img class="dice" src="./assets/images/dice-5.png" alt="Dice" />
+      <button class="btn new-game">🔚 New Game</button>
+      <button class="btn roll-dice">🎲 Roll Dice</button>
+      <button class="btn hold">⬇️ Hold</button>
+    </main>
+    <script src="js/script.js"></script>
+  </body>
+</html>
