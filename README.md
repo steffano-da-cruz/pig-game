@@ -1,4 +1,4 @@
-# Guess My Number
+# Pig Game
 ![Pig Game](/assets/images/readme-guess-my-number.png)
 
 ## 💻 About the project
