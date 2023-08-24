@@ -5,7 +5,7 @@
 Both players compete to achieve a score of 100 points. The first one reaching this score wins.
 
 ## 🤔 How does it work?
-The player 1 kicks off pushing the 'roll dice' button. A random number is generated and showed at the current score tally and on the dice as well. If the player 1 rolls 1, the game switches to player 2 and the current score is lost. The active player can save the current score by pushing the 'hold button' but, by doing it, the game switches the player. The first player reaching 100 points wins.
+The player 1 kicks off pushing the 'roll dice' button. A random number is generated and showed at the current score tally and on the dice as well. If player 1 rolls 1, the game switches to player 2 and the current score is lost. The active player can save the current score by pushing the 'hold button' but, by doing it, the game switches the player. The first player reaching 100 points wins.
 
 ## 🛠 Technologies used
 - HTML5
