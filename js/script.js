@@ -89,10 +89,6 @@ btnHold.addEventListener("click", function () {
       document
         .querySelector(`.player--${activePlayer}`)
         .classList.add("player--winner");
-      document
-        .querySelector(`.player--${activePlayer}`)
-        .classList.remove("player--active");
-      document.querySelector(`.color--${activePlayer}`).style.color = "#c7365f";
       diceEl.classList.add("hidden");
     } else {
       // Switch to the next player

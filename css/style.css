@@ -47,12 +47,16 @@ main {
   background-color: #2f2f2f;
 }
 
+.player--winner .player {
+  color: #c7365f;
+}
+
 div {
   text-align: center;
 }
 
 .player-container {
-  color: #222;
+  color: #222222;
   text-transform: uppercase;
 }
 
@@ -80,13 +84,13 @@ div {
 
 .current {
   font-size: 1.1rem;
-  color: #fff;
+  color: #ffffff;
   text-transform: uppercase;
 }
 
 .current-score {
   font-size: 2rem;
-  color: #fff;
+  color: #ffffff;
 }
 
 img {
@@ -99,14 +103,14 @@ img {
   position: absolute;
   cursor: pointer;
   position: absolute;
-  color: #444;
+  color: #444444;
   background: none;
   border: none;
   font-size: 1.1rem;
   text-transform: uppercase;
   cursor: pointer;
   transition: all 0.2s;
-  background-color: white;
+  background-color: #ffffff;
   background-color: rgba(255, 255, 255, 0.6);
   backdrop-filter: blur(10px);
   padding: 0.7rem 2.1rem;
